@@ -1,0 +1,19 @@
+{
+    "name": "josuex220/koin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Koin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josue Vidal",
+            "email": "josuex120@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
